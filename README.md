@@ -3,7 +3,7 @@ John Guzman 2021-2378
 
 1.El report esta dentro de la carpeta "Automatizacion" en un archivo .html llamado "report.html"
 
-2.Las capturas estan dentro de la carpeta llamada "capturas" dentro de la carpeta de "Automatizacion"
+2.Las capturas estan dentro de la carpeta llamada "capturas" dentro de la carpeta de "Automatizacion", tambien estan en el "README"
 
 3. Link para el video de las pruebas : https://drive.google.com/drive/folders/1NDL2axeZoOJRGS2RkVSoccMzkzysml-W?usp=sharing
    
