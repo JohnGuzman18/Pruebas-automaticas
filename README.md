@@ -5,7 +5,7 @@ John Guzman 2021-2378
 
 2.Las capturas estan dentro de la carpeta llamada "capturas" dentro de la carpeta de "Automatizacion", tambien estan en el "README"
 
-3. Link para el video de las pruebas : https://drive.google.com/drive/folders/1NDL2axeZoOJRGS2RkVSoccMzkzysml-W?usp=sharing
+3. Link para el video de las pruebas : [https://drive.google.com/drive/folders/1NDL2axeZoOJRGS2RkVSoccMzkzysml-W?usp=sharing](https://drive.google.com/drive/folders/1LKLqaz1uzT2zLnvpLpWznQ8j-z8gO384?usp=sharing)
    
 4. Link para azure : https://dev.azure.com/20212378/Automatizacion
 
