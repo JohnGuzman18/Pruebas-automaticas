@@ -1,5 +1,12 @@
 # Pruebas-automaticas
 John Guzman 2021-2378
+
+1.El report esta dentro de la carpeta "Automatizacion" en un archivo .html llamado "report.html"
+2.Las capturas estan dentro de la carpeta llamada "capturas" dentro de la carpeta de "Automatizacion"
+3. Link para el video de las pruebas : https://drive.google.com/drive/folders/1NDL2axeZoOJRGS2RkVSoccMzkzysml-W?usp=sharing
+4. Link para azure : https://dev.azure.com/20212378/Automatizacion
+
+
  Aqui estare haciendo algunas pruebas automaticas a la pagina de corotos
 
 
